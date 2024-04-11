@@ -5,4 +5,4 @@ This is an HTML website that I've made in my free time. It has a bunch of games,
 
 Click on the game within the few seconds where it isn't blocked. Then, click the previous page arrow button. You may have to click the arrow multiple times.
 
-# <a href="https://academics-study.github.io/" target="_blank">PLAY HERE</a>
+# <a href="https://academics-study.github.io/more.html" target="_blank">PLAY HERE</a>
